@@ -52,16 +52,16 @@ Cronograma
 Evaluación
 -----------
 #. Proyecto:
-
-  * Pitch Conceptual - Brief Conceptual - Árbol de Objetivos	20%
-  * Entrega Funcional	10%
-  * Entrega Final - Pitch - Brief - Dossier	30%
+    
+    * Pitch Conceptual - Brief Conceptual - Árbol de Objetivos	20%
+    * Entrega Funcional	10%
+    * Entrega Final - Pitch - Brief - Dossier	30%
 
 #. Ejercicios del Taller de diseño: 20%
-  
-  * Estudios Demográficos (10%)
-  * Lecturas (10%)
-
+    
+    * Estudios Demográficos (10%)
+    * Lecturas (10%)
+    
 #. Ejercicios del laboratorio de ingeniería: 20%
 
 Dedicación
