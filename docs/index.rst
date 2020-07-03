@@ -34,7 +34,7 @@ Cronograma
 -----------
 .. raw:: html
 
-   <a href="https://docs.google.com/spreadsheets/d/18qYiWmmAH7VTyWcctqr6s8gvk22g0SGkZcdrIYbH8tg/edit?usp=sharing" target="_blank">Proyecto docente</a>
+   <a href="https://docs.google.com/spreadsheets/d/1LH6Nd2PqfWTWQM39izZXZUqMi8WDP0XMOkV9Ma1EKPE/edit?usp=sharing" target="_blank">Proyecto docente</a>
    <br> </br>
 
 Evaluación
