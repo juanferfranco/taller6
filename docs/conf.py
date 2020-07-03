@@ -19,9 +19,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Sensores 1'
-copyright = '2020, Juan Franco'
-author = 'Juan Franco'
+project = 'Taller 6'
+copyright = '2020, Jaime Betancur/Juan Franco'
+author = 'Jaime Betancur / Juan Franco'
 
 # The short X.Y version
 version = '1.0.0'
@@ -101,7 +101,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'Sensores1'
+htmlhelp_basename = 'Taller6'
 
 
 # -- Options for LaTeX output ------------------------------------------------
@@ -128,7 +128,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'sensores1.tex', 'sensores1 Documentation',
+    (master_doc, 'taller6.tex', 'taller6 Documentation',
      'Juan Franco', 'manual'),
 ]
 
@@ -138,7 +138,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'sensores1', 'sensores1 Documentation',
+    (master_doc, 'taller6', 'taller6 Documentation',
      [author], 1)
 ]
 
@@ -149,7 +149,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'sensores1', 'sensores1 Documentation',
-     author, 'sensores1', 'One line description of project.',
+    (master_doc, 'taller6', 'taller6 Documentation',
+     author, 'taller6', 'One line description of project.',
      'Miscellaneous'),
 ]
