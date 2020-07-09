@@ -24,7 +24,7 @@ Laboratorio de ingeniería
 * Tareas
   
   * Revisa el material presentado en la sesión.
-  * Realiza el curso `TOUCHDESIGNER BEGINNER CRASH COURSE <https://drive.google.com/drive/folders/1pbPLDdlrcJ8L-fM4Y947LfLKMLr-QK_e?usp=sharing>`
+  * Realiza el curso `TOUCHDESIGNER BEGINNER CRASH COURSE <https://drive.google.com/drive/folders/1pbPLDdlrcJ8L-fM4Y947LfLKMLr-QK_e?usp=sharing>`__
 
 * Duración aproximada: 8 horas
 
