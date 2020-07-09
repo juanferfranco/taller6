@@ -28,7 +28,7 @@ Laboratorio de ingeniería
 
 * Duración aproximada: 8 horas
 
-  * 3 horas esta semana para que leas los documentos de interés del la presentación.
+  * 4 horas esta semana para que leas los documentos de interés del la presentación.
   * 4 horas más la semana entrante. Para que comiences el curso de Touch y hagas tu aplicación demo. NO TE COMPLIQUES, 
     ten presente que el curso dura casi 3 horas, pero seguro vas a parar, repetir y copiar lo que ves. Por tanto, tienes
     muy poco tiempo para pensar y hacer tu aplicación. Una idea es que hagas algo parecido a lo que viste, para cambia
