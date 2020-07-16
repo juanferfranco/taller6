@@ -15,7 +15,7 @@ Taller de diseño
 Laboratorio de ingeniería
 --------------------------
 * Fecha: julio 9 de 2020
-* Descripción: 
+* Descripción: introducción al laboratorio de ingeniería
 * Recursos: 
 
   * `Presentación <https://docs.google.com/presentation/d/1lgEKJLuiwULSdbpwtX5pbdEDqF6X7kCBGliqViRJ-7Q/edit?usp=sharing>`__
@@ -41,9 +41,3 @@ Laboratorio de ingeniería
     * Prepara una aplicación que use lo aprendido en el curso de Touch para compartir la próxima sesión.
 
 ..
-
-  * `Herramienta para prototipado rápido 2 <https://p5js.org/>`__
-  * `Herramienta para prototipado rápido 3 <https://nodered.org/>`__
-  * `Herramienta para prototipado rápido 4 <https://www.kodular.io/>`__
-  * `Herramienta para prototipado rápido 5 <https://hexler.net/products/touchosc>`__
-  * `Herramienta para prototipado rápido 6 <https://cycling74.com/>`__
