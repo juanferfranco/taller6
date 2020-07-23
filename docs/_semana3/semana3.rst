@@ -53,9 +53,9 @@ Tarea
 
   #. Revisión en detalle de la presentación de referentes de experiencias de arte.
   #. Cada uno realizará un revisión de referentes de experiencias de arte realizadas por 
-    museos y las analizará.
+     museos y las analizará.
   #. Realizar una presentación de 3 referentes mínimo entre 10 y 20 minutos 
-    indicando a qué necesidad le apuntan, describir cómo abordaron la necesidad, posibles
-    resultados y LO MÁS IMPORTANTE análisis de la tecnología utilizada. Busquen qué posibles
-    herramientas usuaron o con cuáles herramientas se podría realizar y tratar de entender
-    cómo funcionan.
+     indicando a qué necesidad le apuntan, describir cómo abordaron la necesidad, posibles
+     resultados y LO MÁS IMPORTANTE análisis de la tecnología utilizada. Busquen qué posibles
+     herramientas usuaron o con cuáles herramientas se podría realizar y tratar de entender
+     cómo funcionan.
