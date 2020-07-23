@@ -1,64 +1,61 @@
 Semana 3
 ===========
 
-Trayecto de acciones, tiempos y formas de trabajo
----------------------------------------------------
+Taller de diseño
+-----------------
+* Fecha: julio 21 de 2020
+* Descripción: objetivos del proyecto. Definir qué son los objetivos
+  del proyectivo. Trabajar en el macro-objetivo y en l definición de por qué
+  se hará el proyecto con el sector seleccionado.
+* Recursos: sesión de discusión por Teams.
+* Tareas: 
 
-Fase 6 (RETO)
-^^^^^^^^^^^^^^^^^^^^^
-* Fecha: julio 20 de 2020 - 2 p.m.
-* Descripción: procede con la solución del reto.
-* Recursos: para abordar el reto de programación te recomiendo que tengas a la mano el siguiente material
+  * Crear, de manera grupal, una presentación de máximo 10 minutos.
+  * Grupo 1: Jacobo, Daniel y Edison. Estado del arte a nivel mundial
+  * Grupo 2: Juan Pablo, Cristian. Políticas públicas de apoyo.
+  * Grupo 3: Vidal y Barragán. Retrospectiva histórica.
+  * Grupo 4: Aleja e Iván. Relación con otros museos y la ciudad
 
-  * Comienza leyendo la rúbrica de evaluación de esta unidad `aquí <https://docs.google.com/spreadsheets/d/1THSCliQ08uRTvAZZ-rPrzwcoeoYGPMsmL1n5ZXlAaLQ/edit?usp=sharing>`__.
-  * Lee la documentación y los ejemplos de la clase `Serial Port <https://docs.microsoft.com/en-us/dotnet/api/system.io.ports.serialport?view=netframework-4.8>`__
-    de C# y .NET.
-  * Lee la documentación del manejo del puerto `serial de arduino <https://www.arduino.cc/reference/en/language/functions/communication/serial/>`__.
-    y los ejemplos.
-  * Ingresa al grupo de `Teams <https://teams.microsoft.com/l/team/19%3a919658982cb4457e85d706bad345b5dc%40thread.tacv2/conversations?groupId=16c098de-d737-4b8a-839d-8faf7400b06e&tenantId=618bab0f-20a4-4de3-a10c-e20cee96bb35>`__.
-    para resolver dudas en tiempo real con el docente.
-  * Continua trabajando en el RETO en tus horas de trabajo autónomas.
+* Duración aproximada: 6 horas 40 minutos.
 
-* Duración de la actividad: 
-  
-  * 1 hora 40 minutos con solución de dudas en tiempo real.
-  * 3 horas de trabajo autónomo. 
+  * Sesión sincrónica: 1 hora 40 minutos
+  * Sesión de trabajo individual y grupal: 5 horas.
 
-* Forma de trabajo: individual.
+* Evidencia: presentación para la semana 4.
 
-Fase 7 (sustentación):
-^^^^^^^^^^^^^^^^^^^^^^^^^
-* Fecha: julio 21-22 de 2020
-* Descripción: realiza el video de sustentación.
-* Recursos: para realizar el video de sustentación te recomiendo los siguientes recursos
-  
-  * Software para capturar `OBS Studio <https://obsproject.com/>`__.
-  * Ver `este <https://www.youtube.com/watch?time_continue=3&v=1tuJjI7dhw0>`__
-    tutorial para el manejo de OBS Studio.
+Laboratorio de ingeniería
+--------------------------
+* Fecha: julio 23 de 2020
+* Descripción: 
 
-* Duración de la actividad: 2 horas de trabajo autónomo
-* Forma de trabajo: individual
+  * Presentación de touchdesigner, demo p5.js y presentación con
+    referentes de las otras herramientas. 
+  * Charla: "Escape Rooms with Designer Remy Karns"
+  * Referente de experiencias de arte.
 
-Fase 8 (retroalimentación): 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-* Fecha: julio 22 de 2020 - 2 p.m.
-* Descripción: encuentro sincrónico para compartir y discutir los resultados del RETO. 
-* Recursos: ingresa al grupo de `Teams <https://teams.microsoft.com/l/team/19%3a919658982cb4457e85d706bad345b5dc%40thread.tacv2/conversations?groupId=16c098de-d737-4b8a-839d-8faf7400b06e&tenantId=618bab0f-20a4-4de3-a10c-e20cee96bb35>`__
-* Duración de la actividad: 
-  
-  * 50 minutos de discusión.
-  * 50 minutos para que hagas las acciones de mejora sobre tu trabajo.
+* Recursos: 
 
-* Forma de trabajo: colaborativo con solución de dudas en tiempo real y trabajo individual en la acción de mejora.
+  * Sesión de discusión por Teams.
+  * Ingreso a la charla https://us02web.zoom.us/j/82727032361?pwd=S3ZhSTR2THFJeVlqa0RDaTdSNitEQT09 a
+    la 1:55 p.m.
+  * `Referentes <https://docs.google.com/presentation/d/1XNKgwmRpgx0t275ySEN9M6UdLHzRyqm7MjfYaYSTDok/edit?usp=sharing>`__
+    de experiencias de arte.
 
-Criterios de evaluación
-------------------------
-1. Criterio: integro dispositivos de entrada-salida con sistemas de cómputo para la
-   creación de sistemas intermediados por el entretenimiento digital (Materialización).
+* Tareas: ver descripción más abajo.
+* Duración: 3 horas 20 minutos.
 
-2. Criterio: aplico los conceptos necesarios para el correcto diseño, implementación,
-   funcionamiento y 
-   diagnóstico del software en la producción de sistemas de entretenimiento digital utilizando los procedimientos y herramientas adecuadas según el contexto (Ingeniería de software).
+Tarea
+*******
+* Descripción: presentación para la próxima sesión.
+* Duración de la actividad: 4 horas de trabajo autónomo
+  correspondientes a la semana 4.
+* Actividades:
 
-Esta actividad tendrá un porcentaje sumativo del 15% en la nota final.
-
+  #. Revisión en detalle de la presentación de referentes de experiencias de arte.
+  #. Cada uno realizará un revisión de referentes de experiencias de arte realizadas por 
+    museos y las analizará.
+  #. Realizar una presentación de 3 referentes mínimo entre 10 y 20 minutos 
+    indicando a qué necesidad le apuntan, describir cómo abordaron la necesidad, posibles
+    resultados y LO MÁS IMPORTANTE análisis de la tecnología utilizada. Busquen qué posibles
+    herramientas usuaron o con cuáles herramientas se podría realizar y tratar de entender
+    cómo funcionan.
