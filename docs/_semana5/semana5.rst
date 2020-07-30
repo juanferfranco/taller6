@@ -1,26 +1,30 @@
-
 Semana 5
 ===========
 
-Trayecto de acciones, tiempos y formas de trabajo
----------------------------------------------------
+Taller de diseño
+-----------------
+* Fecha: agosto 4 de 2020
+* Descripción: presentación del pitch conceptual
+* Recursos: sesión de discusión por Teams.
+* Duración aproximada: 1 hora 40 minutos.
+* Evidencia: pith conceptual.
 
-Fase 6 (RETO)
-^^^^^^^^^^^^^^^^^^^^^
-* Fecha: agosto 3 y agosto 5 de 2020 - 2 p.m. 
-* Descripción: procede con la solución del reto.
-* Recursos: para abordar el reto de programación te recomiendo que tengas a la mano el siguiente material
+Laboratorio de ingeniería
+--------------------------
+* Fecha: julio 6 de 2020
+* Descripción: refinamiento del pitch conceptual
+* Recursos: ingresa a Teams.
+* Duración: 3 horas 20 minutos.
 
-  * `Esta guía <https://docs.google.com/presentation/d/1A6phooetTEDRBksyrAd1Rloe7mCj7lRf1pDp4CRRdSk/edit?usp=sharing>`__.
-  * La documentación del manejo del puerto `serial de arduino <https://www.arduino.cc/reference/en/language/functions/communication/serial/>`__.
-    y los ejemplos.
-  * Ingresa al grupo de `Teams <https://teams.microsoft.com/l/team/19%3a919658982cb4457e85d706bad345b5dc%40thread.tacv2/conversations?groupId=16c098de-d737-4b8a-839d-8faf7400b06e&tenantId=618bab0f-20a4-4de3-a10c-e20cee96bb35>`__.
-    para resolver dudas en tiempo real con el docente.
-  * Continua trabajando en el RETO en tus horas de trabajo autónomas.
+Actividad
+^^^^^^^^^^^
+A partir del Pitch conceptual y lo que se diga 
+deben utilizar el tiempo del laboratorio para hacer todos los 
+ajustes necesarios y refinar toda la propuesta del proyecto
 
-* Duración de la actividad: 
-  
-  * Dos sesiones de 1 hora 40 minutos cada una para solución de dudas en tiempo real.
-  * 5 horas de trabajo autónomo: 3 horas entre agosto 3 y 5 y 2 horas más luego de agosto 5.
+¿Qué esperamos para la semana 6?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Debemos comenzar a definir los productos interactivos por
+cada línea estratégica pensando en los diferentes momentos
+de la experiencia: antes, durante y después.
 
-* Forma de trabajo: individual.
