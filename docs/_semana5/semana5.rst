@@ -9,6 +9,16 @@ Taller de diseño
 * Duración aproximada: 1 hora 40 minutos.
 * Evidencia: pith conceptual.
 
+Tarea
+^^^^^^^
+Traer a la clase de la semana 6:
+
+#. ¿Qué estrategias se definieron para cada público
+   y para cada momento de la experiencia: antes, durante y después?
+#. ¿Qué se quiere comunicar con cada estrategia?
+#. ¿Qué productos interactivos se proponen para cada
+   estrategia?
+
 Laboratorio de ingeniería
 --------------------------
 * Fecha: julio 6 de 2020
