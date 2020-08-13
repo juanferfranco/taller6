@@ -21,7 +21,7 @@ Traer a la clase de la semana 6:
 
 Laboratorio de ingeniería
 --------------------------
-* Fecha: julio 6 de 2020
+* Fecha: agosto 6 de 2020
 * Descripción: refinamiento del pitch conceptual
 * Recursos: ingresa a Teams.
 * Duración: 3 horas 20 minutos.
