@@ -38,7 +38,7 @@ Durante estas semanas los equipos del antes, durante y después estarán trabaja
 cada uno de los productos propuestos. La metodología de trabajo será:
 
 * En la sesión 1 cada equipo mostrará, de manera individual (utilizando cada canal
-  definido en Teams) avances.
-* En la sesión 2 se hará una puesta en común de los avances para que todo el equipo
+  definido en Teams), avances.
+* En la sesión 2 se hará una puesta en común de los avances para que todo el grupo
   esté enterado de los avances grupales y se tomen acciones correctivas para mantener
   coherente el sistema.
