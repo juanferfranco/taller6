@@ -10,7 +10,7 @@ Taller de diseño
 
 Laboratorio de ingeniería
 --------------------------
-* Fecha: agosto 25 de 2020 - 12m a 3:40 p.m.
+* Fecha: agosto 27 de 2020 - 12m a 3:40 p.m.
 * Descripción: refinamiento de los productos interactivos
 * Recursos: ingresa a Teams.
 * Duración: 3 horas 20 minutos.
