@@ -23,7 +23,7 @@ Actividades
 * Sesión 2: Cada equipo presenta a los demás su propuesta de diseño. Se realiza feedback
   grupal
 
-¿Qué esperamos para las semana 8,9 y 10?
+¿Qué esperamos para las semana 9 y 10?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Durante estas semanas los equipos del antes, durante y después estarán trabajando en
 cada uno de los productos propuestos. La metodología de trabajo será:
