@@ -85,5 +85,3 @@ Este curso es de 5 créditos repartidos en 2 horas de taller de diseño,
    Semana10 <_semana10/semana10>
    Semana11 <_semana10/semana11>
    Semana12 <_semana10/semana12>
-
-
