@@ -11,9 +11,9 @@ Taller de diseño
 Laboratorio de ingeniería
 --------------------------
 * Fecha: octubre 15 de 2020 - 12m a 3:40 p.m.
-* Descripción: trabajo autónomo preparación para la entrega final
+* Descripción: definición del demo para la entrega final.
 * Recursos: ingresa a Teams.
-* Duración: 3 horas 20 minutos.
+* Duración: 3 horas.
 
 ¿Qué esperamos para la semana 16?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
