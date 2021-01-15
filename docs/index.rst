@@ -1,7 +1,7 @@
-Curso Taller 6 2020-20
+Curso Taller 6 2021-10
 ========================================
 
-Docente diseñador del curso: Jaime Andrés Betancur Pérez / Juan Fernando Franco Higuita
+Docentes diseñadores del curso: Jaime Andrés Betancur Pérez / Juan Fernando Franco Higuita
 
 Nombre del docente moderador: Juan Fernando Franco Higuita
 
@@ -9,9 +9,10 @@ Créditos y horas totales del curso: 5 créditos - 240 horas totales
 
 Aula para los encuentros sincrónicos
 -------------------------------------
-Puedes ingresar `aquí <https://teams.microsoft.com/l/team/19%3af2c7f743c85b4d16bf6c1c96f39dcbf0%40thread.tacv2/conversations?groupId=03fb8faf-ff2d-4d59-81c0-c7adb82116bb&tenantId=618bab0f-20a4-4de3-a10c-e20cee96bb35>`__
-a nuestra aula los martes a las 10 a.m.
-y los jueves a las 12 del medio día.
+Discord: `esta <https://discord.gg/vC5RaagNcE>`__ es a invitación al
+servidor. Una vez te asigne el rol podrás ver los canales del curso.
+
+Teams: `aquí <https://teams.microsoft.com/l/team/19%3af2c7f743c85b4d16bf6c1c96f39dcbf0%40thread.tacv2/conversations?groupId=03fb8faf-ff2d-4d59-81c0-c7adb82116bb&tenantId=618bab0f-20a4-4de3-a10c-e20cee96bb35>`__
 
 Justificación del curso
 -------------------------
@@ -46,7 +47,7 @@ Cronograma
 -----------
 .. raw:: html
 
-   <a href="https://docs.google.com/spreadsheets/d/1LH6Nd2PqfWTWQM39izZXZUqMi8WDP0XMOkV9Ma1EKPE/edit?usp=sharing" target="_blank">Proyecto docente</a>
+   <a href="https://docs.google.com/spreadsheets/d/1NzUeM1do4Tnocg7l4Tr841d_DCy4u1AEKcHaSgq0KVg/edit?usp=sharing" target="_blank">Proyecto docente</a>
    <br> </br>
 
 Evaluación
@@ -74,18 +75,4 @@ Este curso es de 5 créditos repartidos en 2 horas de taller de diseño,
    :caption: Contenidos semanales:
 
    Semana1 <_semana1/semana1>
-   Semana2 <_semana2/semana2>
-   Semana3 <_semana3/semana3>
-   Semana4 <_semana4/semana4>
-   Semana5 <_semana5/semana5>
-   Semana6 <_semana6/semana6>
-   Semana7 <_semana7/semana7>
-   Semana8 <_semana8/semana8>
-   Semana9 <_semana9/semana9>
-   Semana10 <_semana10/semana10>
-   Semana11 <_semana11/semana11>
-   Semana12 <_semana12/semana12>
-   Semana13 <_semana13/semana13>
-   Semana14 <_semana14/semana14>
-   Semana15 <_semana15/semana15>
-   Semana16 <_semana16/semana16>
+

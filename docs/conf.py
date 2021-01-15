@@ -20,13 +20,13 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Taller 6'
-copyright = '2020, Jaime Betancur/Juan Franco'
+copyright = '2021, Jaime Betancur/Juan Franco'
 author = 'Jaime Betancur / Juan Franco'
 
 # The short X.Y version
 version = '1.0.0'
 # The full version, including alpha/beta/rc tags
-release = 'beta'
+release = 'rc'
 
 
 # -- General configuration ---------------------------------------------------
