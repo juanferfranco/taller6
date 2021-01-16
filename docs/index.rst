@@ -9,8 +9,9 @@ Créditos y horas totales del curso: 5 créditos - 240 horas totales
 
 Aula para los encuentros sincrónicos
 -------------------------------------
-Discord: `esta <https://discord.gg/vC5RaagNcE>`__ es a invitación al
-servidor. Una vez te asigne el rol podrás ver los canales del curso.
+Discord: `esta <https://discord.gg/vC5RaagNcE>`__ es la invitación al
+servidor donde están los canales del curso. Una vez te asigne el rol podrás
+ver dichos canales.
 
 Teams: `aquí <https://teams.microsoft.com/l/team/19%3af2c7f743c85b4d16bf6c1c96f39dcbf0%40thread.tacv2/conversations?groupId=03fb8faf-ff2d-4d59-81c0-c7adb82116bb&tenantId=618bab0f-20a4-4de3-a10c-e20cee96bb35>`__
 
