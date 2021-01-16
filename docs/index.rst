@@ -68,8 +68,8 @@ Evaluación
 
 Dedicación
 -----------
-Este curso es de 5 créditos repartidos en 2 horas de taller de diseño,
-4 horas de laboratorio de ingeniería y 9 horas de trabajo autónomo.
+Este curso es de 5 créditos repartidos en 4 horas de taller de diseño,
+2 horas de laboratorio de ingeniería y 9 horas de trabajo autónomo.
 
 .. toctree::
    :maxdepth: 3
