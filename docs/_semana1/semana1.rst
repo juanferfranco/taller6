@@ -40,7 +40,7 @@ adicionas el proyecto de Unity.
 Ejercicio 3
 ^^^^^^^^^^^^
 
-Ahora reproduce tu mismo el segundo caso (video anterior): Creas un proyecto de Unity y luego 
+Ahora reproduce tu mismo el segundo caso (video anterior): creas un proyecto de Unity y luego 
 adicionas un repositorio al proyecto. De todas 
 maneras no olvides ir a Project Settings (Project Settings: version control 
 (Visible Meta files) y asset serialization (Force text)).
@@ -74,7 +74,7 @@ Ahora que ya sabes qué es el control de versión, conoces las herramientas
 y los flujos de trabajo, te voy a proponer un ejercicio:
 
 * Puedes hacer este ejercicio con tus compañeros o crea otra cuenta 
-  en GitHub para que simulemos el proceso con otra persona.
+  en GitHub para que simules el proceso con otra persona.
 * Vas a crear un proyecto en Unity y lo colocarás bajo control de versión.
 * Luego vas a escribir 3 features que vas a implementar. Para cada feature
   sigue las estrategias del flujo de trabajo que aprendiste (ramas). No te compliques,
@@ -93,8 +93,8 @@ que deberás dominar para poder trabajar de manera efectiva en equipo.
 
 ¿Por qué Unity? Porque es una herramienta muy versátil con la que puedes hacer
 muchos tipos de productos interactivos. Te recomiendo además que aprendas
-todo lo que puedas de esta herramienta. No solo es útil para desarrollar sino
-también para hacer prototipos, pruebas de conceptos, maquetas digitales.
+todo lo que puedas de esta herramienta. No solo es útil para desarrollar, sino
+también para hacer prototipos, pruebas de conceptos, maquetas digitales, entre otros.
 
 Ejercicio 6
 ^^^^^^^^^^^^
