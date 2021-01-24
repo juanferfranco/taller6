@@ -16,8 +16,12 @@ Antes te terminar la sesión te voy a proponer que veas detenidamente el siguien
 `video <https://youtu.be/eTOgjQ9o4vQ>`__. Se trata de una extensión de un flujo 
 de trabajo que permite mantener el repositorio de manera ordenada.
 
-Te propongo entonces que trates de reproducir este flujo y que experimentes.
+Te propongo entonces que trates de reproducir este flujo y que experimentes. Para 
+terminar te pido que leas `este <https://support.gitkraken.com/git-workflows-and-extensions/git-flow/>`__ 
+texto.
 
+* ¿Para qué sirve una rama release?
+* ¿Para qué sirve una rama hotfix?
 
 Ejercicios 
 ------------
