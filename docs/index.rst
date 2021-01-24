@@ -72,8 +72,10 @@ Este curso es de 5 créditos repartidos en 4 horas de taller de diseño,
 2 horas de laboratorio de ingeniería y 9 horas de trabajo autónomo.
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    :caption: Contenidos semanales:
 
    Semana1 <_semana1/semana1>
+   Semana2 <_semana2/semana2>
+
 

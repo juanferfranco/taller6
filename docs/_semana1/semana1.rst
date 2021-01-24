@@ -8,6 +8,9 @@ Laboratorio de ingeniería
 * Descripción: introducción al laboratorio de ingeniería
 * Recursos: `introducción al taller <https://docs.google.com/presentation/d/1eabrm6LnI05q4DEUORnGtlhbVgj3h8uPh2bngHly7ZU/edit?usp=sharing>`__
 
+Ejercicios
+---------------
+
 Ejercicio 1
 ^^^^^^^^^^^^
 
