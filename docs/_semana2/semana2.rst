@@ -12,6 +12,13 @@ La semana pasada te dejé algunos ejercicios relativos al flujo de trabajo
 utilizando control de versión. En esta sesión vas a presentar tus resultados y 
 conclusiones de los ejercicios.
 
+Antes te terminar la sesión te voy a proponer que veas detenidamente el siguiente 
+`video <https://youtu.be/eTOgjQ9o4vQ>`__. Se trata de una extensión de un flujo 
+de trabajo que permite mantener el repositorio de manera ordenada.
+
+Te propongo entonces que trates de reproducir este flujo y que experimentes.
+
+
 Ejercicios 
 ------------
 
