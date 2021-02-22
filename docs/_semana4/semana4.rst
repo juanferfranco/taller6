@@ -10,6 +10,6 @@ Sesión
 ----------
 
 * Estado actual del proyecto.
-* Conclusión: se sugiere la creación de un productor interactivo basado en las dinámicas del San Alejo, 
+* Conclusión: se sugiere la creación de un producto interactivo basado en las dinámicas del San Alejo, 
   pero permitiendo el uso de plataformas tecnológicas que inviten posiblemente nuevos perfiles de usuarios.
 
