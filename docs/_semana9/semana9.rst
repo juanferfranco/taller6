@@ -19,6 +19,20 @@ En la sesión vamos a realizar un ejercicio grupal de trabajo en
 un proyecto bajo control de versión utilizando un flujo de 
 trabajo con Forks.
 
+La siguiente información puede ser de mucha utilidad para que la revises 
+las veces que sean necesario para que entiendas y te familiarices mucho 
+más con el flujo y la herramienta de trabajo:
+
+* Lectura 
+  `Working in Unity as a Team <https://medium.com/@codefluegel/working-in-unity-as-a-team-28781a662699>`__
+* Video sobre `Git <https://youtu.be/xbMleco5wiI>`__.
+* Video sobre `flujos de trabajo <https://youtu.be/CZNl7_rj1tE>`__.
+* Video sobre el trabajo con `REMOTOS (Github) <https://www.youtube.com/watch?v=WIdl71wBhPk>`__.
+
+Este es el video CLAVE para el trabajo que haremos:
+
+* Video sobre el flujo de trabajo con `FORK <https://youtu.be/-G7aAyDeVo4>`__.
+
 
 Tareas para la semana 10
 --------------------------
