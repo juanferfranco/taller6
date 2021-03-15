@@ -1,45 +1,28 @@
 Semana 9
 ===========
 
-Taller de diseño
------------------
-* Fecha: septiembre 1 de 2020 - 10 a.m.
-* Descripción: avances del proyecto.
-* Recursos: sesión de discusión por Teams.
-* Duración aproximada: 1 hora 40 minutos.
+* Fecha: marzo 15 de 2021
+* Descripción: flujo de trabajo bajo control de versión
 
-Actividades
-^^^^^^^^^^^^^^^^^
-¿Cómo vamos a presentar el proyecto?
+Sesión
+----------
 
-Se definen grupos de trabajo para definir la identidad del proyecto,
-pitch, tiempos y cronogramas:
+Revisión de la tarea de la semana pasa:
 
-* Grupo gráficos: Jose, Aleja, Jacobo.
-* Grupo de administración: Barragán.
-* Pagina Web: Daniel y Edison
-* Documentación/Teasers: Cristian, Juan Pablo
-* Audio: Ivan, Vidal, Cristian.
+* Vamos a utilizar el XR Interaction Toolkit
+* Hacer el prototipo con UI
+* Incluir la consola de depuración como parte del ambiente VR 
+* Cambiar entre escenas (para simular los tres momentos definidos)
 
-¿Cómo vamos a llamar este proyecto?
 
-Laboratorio de ingeniería
+En la sesión vamos a realizar un ejercicio grupal de trabajo en 
+un proyecto bajo control de versión utilizando un flujo de 
+trabajo con Forks.
+
+
+Tareas para la semana 10
 --------------------------
-* Fecha: septiembre 3 de 2020 - 12m a 3:40 p.m.
-* Descripción: refinamiento de los productos interactivos
-* Recursos: ingresa a Teams.
-* Duración: 3 horas 20 minutos.
 
-Actividades
-^^^^^^^^^^^^^
-
-* Sesión 1: Cada equipo refina el diseño de su producto interactivo.
-
-* Sesión 2: Cada equipo presenta a los demás su propuesta de diseño. Se realiza feedback
-  grupal
-
-¿Qué esperamos para la semana 10?
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Durante esta semana los equipos del antes, durante y después estarán trabajando en
-cada uno de los productos propuestos. La semana 10 será la última semana de prototipado.
-La semana 11 se espera la entrega con prueba funcional.
+Aunque no tengamos los assets definitivos, vamos a prototipar 
+la experiencia con figuras geométricas que estarán dispuestas 
+tal como estarían las reales.
