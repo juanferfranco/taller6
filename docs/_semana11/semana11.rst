@@ -19,6 +19,15 @@ del proyecto. Recuerda que puedes seguir usando Notion como tu bitácora de trab
 y documentación; sin embargo, me gustaría que conocieras una herramienta de producción 
 especializada en el tipo de aplicaciones interactivas que hacemos en IDED.
 
+Cuando crees tu cuenta puedes iniciar con un proyecto de prueba:
+
+.. image:: ../_static/codecks.png
+   :alt:  codecks 
+   :scale: 50%
+   :align: center
+
+Mira el deck Codecks tutorial para que observes cómo puedes iniciar.
+
 Algunos enlaces para que mires:
 
 * `Aquí <https://youtu.be/HC8YeAHm0GY>`__ te dejo un overview de la herramienta.
