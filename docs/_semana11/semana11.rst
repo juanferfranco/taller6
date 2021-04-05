@@ -19,6 +19,10 @@ del proyecto. Recuerda que puedes seguir usando Notion como tu bitácora de trab
 y documentación; sin embargo, me gustaría que conocieras una herramienta de producción 
 especializada en el tipo de aplicaciones interactivas que hacemos en IDED.
 
+Algunos enlaces para que mires:
+
+* `Aquí <https://youtu.be/HC8YeAHm0GY>`__ te dejo un overview de la herramienta.
+
 Tareas para la semana 12
 --------------------------
 
