@@ -1,24 +1,20 @@
 Semana 12
 ===========
 
-Taller de diseño
------------------
-* Fecha: septiembre 22 de 2020 - 10 a.m.
-* Descripción: presentación de prototipos y refinamiento del lenguaje gráfico
-* Recursos: sesión de discusión por Teams.
-* Duración aproximada: 1 hora 40 minutos.
+* Fecha: abril 12 de 2021
+* Descripción: revisión de tareas y avances
 
+Sesión
+----------
 
-Laboratorio de ingeniería
+#. Actualización de los avances en el diseño.
+#. Verificar si todos están sincronizados con el manejo 
+   del flujo de trabajo bajo control de versión.
+#. Verificar la planeación del proyecto y los próximos 
+   ``sprints``.
+
+Tareas para la semana 13
 --------------------------
-* Fecha: septiembre 24 de 2020 - 12m a 3:40 p.m.
-* Descripción: Avances para la preentrega y trabajo sincrónico en el
-  refinamiento.
-* Recursos: ingresa a Teams.
-* Duración: 3 horas 20 minutos.
 
-¿Qué esperamos para la semana 13?
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-* Aplicación del lenguaje gráfico a los prototipos.
-* Construcción del contenido digital.
-* Avances en el prototipo para preentrega.
+* Revisión de avances del prototipo según la planeación establecida.
+
