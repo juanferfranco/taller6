@@ -1,19 +1,22 @@
 Semana 16
 ===========
 
+* Fecha: mayo 10 de 2021
+* Descripción: revisión del sprint 2
 
-Taller de diseño
------------------
-* Fecha: octubre 20 de 2020 - 10 a.m.
-* Descripción: revisión del pitch (pre-pitch)  
-* Recursos: sesión de discusión por Teams.
-* Duración aproximada: 1 hora 40 minutos.
+Sesión
+----------
 
-Laboratorio de ingeniería
---------------------------
-* Fecha: octubre 22 de 2020 - 12m a 3:40 p.m.
-* Descripción: Entrega final
-* Recursos: ingresa a Teams.
-* Duración: 1 hora.
+#. Revisión del sprint 2.
+#. Planeación de la entrega final.
 
+Tareas para la semana de entrega
+-----------------------------------------
+
+* Entrega final del prototipo
+
+Consideraciones para la entrega final:
+
+* Entregar un enlace a Github con el repositorio del proyecto.
+* Realizar un video que demuestre el funcionamiento del prototipo.
 
